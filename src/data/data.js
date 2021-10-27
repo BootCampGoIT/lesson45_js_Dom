@@ -1,6 +1,6 @@
 export const data = {
   header: {
-    headerList: ["Home", "About", "Contacts"],
+    headerList: ["home", "products", "contacts"],
   },
   main: {
     products: [
